@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([["pages/onboarding-page-router"],{273:function(n,r,e){"use strict";e.r(r),e.d(r,"default",(function(){return c})),e.d(r,"reducer",(function(){return i})),e.d(r,"rootSaga",(function(){return d.a}));e(4);var t=e(93),u=e(867),o=e(162),a=e(8);function c(){return Object(t.b)()(Object(u.b)()),Object(a.jsx)(o.a,{})}var i=function(){return{name:"onboarding-router",reducer:{fake:function(){return!0}}}},d=e(869)}}]);
-//# sourceMappingURL=onboarding-page-router.824546d8a05b63299d20.looka.js.map
